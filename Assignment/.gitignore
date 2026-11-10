@@ -1,0 +1,7 @@
+.vs/
+.dotnet_cli/
+**/bin/
+**/obj/
+*.csproj.user
+*.suo
+*.user
