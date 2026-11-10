@@ -82,8 +82,6 @@ c:\Users\rulak\OneDrive\Desktop\.NET\Assignment\
 - **Controls:**
   - Radio buttons (`rbBicycleRental` and `rbMushroomId`) to select or immediately open an option.
   - Dedicated action buttons: **Open Bicycle >>** and **Open Mushroom >>** for immediate access.
-  - Button: **Log Out** to return directly to `LoginForm`.
-  - Button: **Exit App** to quit cleanly.
 
 ### 3. Problem 1: Bicycle Rental Calculator (`BicycleRentalForm.cs`)
 
@@ -199,7 +197,7 @@ c:\Users\rulak\OneDrive\Desktop\.NET\Assignment\
 Open PowerShell or Command Prompt in the assignment directory and run:
 
 ```powershell
-cd "c:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp"
+cd StudentRentalAndMushroomApp
 dotnet run
 ```
 
