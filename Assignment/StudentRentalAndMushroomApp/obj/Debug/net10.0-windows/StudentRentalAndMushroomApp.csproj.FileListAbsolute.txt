@@ -1,0 +1,15 @@
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\bin\Debug\net10.0-windows\StudentRentalAndMushroomApp.exe
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\bin\Debug\net10.0-windows\StudentRentalAndMushroomApp.deps.json
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\bin\Debug\net10.0-windows\StudentRentalAndMushroomApp.runtimeconfig.json
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\bin\Debug\net10.0-windows\StudentRentalAndMushroomApp.dll
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\bin\Debug\net10.0-windows\StudentRentalAndMushroomApp.pdb
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.AssemblyInfoInputs.cache
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.AssemblyInfo.cs
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.csproj.CoreCompileInputs.cache
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.dll
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\refint\StudentRentalAndMushroomApp.dll
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.pdb
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentRentalAndMushroomApp.genruntimeconfig.cache
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\ref\StudentRentalAndMushroomApp.dll
+C:\Users\rulak\OneDrive\Desktop\.NET\Assignment\StudentRentalAndMushroomApp\obj\Debug\net10.0-windows\StudentR.A15F893E.Up2Date
